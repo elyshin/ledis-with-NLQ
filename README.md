@@ -15,7 +15,7 @@ You can change which model is used by editing the model name in `llm.py`.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/your-username/ledis-nlp.git
+    git clone https://github.com/elyshin/ledis-with-NLQ
     cd ledis-nlp
     ```
 
